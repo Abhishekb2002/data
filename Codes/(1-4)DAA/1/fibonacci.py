@@ -4,7 +4,7 @@
 #         return n
 #     else:
 #         return(fibonacci(n-1)+fibonacci(n-2))
-# n=int(input())
+# n=int(input("enter number"))
 # print("fibonacci sequence")
 # for i in range(n):
 #     print(fibonacci(i))
@@ -29,6 +29,20 @@ else:
         n2=nth
         count+=1
 
+
+
+# a=int(input("first:"))
+# b=int(input("second "))
+# n=int(input("enter number"))
+
+# print(a,b,end=" ")
+
+# while(n-2):
+#     c=a+b
+#     a=b
+#     b=c
+#     print(c,end=" ")
+#     n=n-1
 
 
 
